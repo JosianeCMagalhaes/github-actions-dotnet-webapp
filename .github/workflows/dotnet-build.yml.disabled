@@ -1,9 +1,9 @@
 name: Executar em push e a cada hora
 
-on:
-  push:         # Aciona quando há push
-  schedule:
-    - cron: '0 * * * *'   # A cada hora
+#on:
+#  push:         # Aciona quando há push
+#  schedule:
+#    - cron: '0 * * * *'   # A cada hora
 
 jobs:
   build:
