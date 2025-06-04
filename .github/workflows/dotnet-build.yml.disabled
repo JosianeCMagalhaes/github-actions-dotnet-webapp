@@ -1,3 +1,5 @@
+# Este workflow está desativado temporariamente para evitar consumo de minutos no GitHub Actions.
+
 name: Executar em push e a cada hora
 
 # on:
